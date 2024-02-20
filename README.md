@@ -1,6 +1,6 @@
 # SAMAD Unmanned Aerial Vehicle Control Surfaces Sizing and Design
 
-![SAMAD UAV](samad_uav_image.jpg)
+![SAMAD UAV](cs sizing.jpeg)
 
 ## Overview
 
